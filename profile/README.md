@@ -203,6 +203,6 @@
 <br>
 
 ### 개발자용 문서
-- 프론트엔드: [`EduOps-Web/README.md`](EduOps-Web/README.md) · [`EduOps-Web/CLAUDE.md`](EduOps-Web/CLAUDE.md)
-- 백엔드: [`EduOps-Server/README.md`](EduOps-Server/README.md)
+- 프론트엔드: [`EduOps-Web/README.md`](https://github.com/Four-Torque/EduOps-Server.git)
+- 백엔드: [`EduOps-Server/README.md`](https://github.com/Four-Torque/EduOps-Server.git)
 - API 명세(Swagger) 등은 각 프로젝트 문서를 참고하세요.
